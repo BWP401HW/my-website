@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Multaqa University//BWP401//AR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:clay-lab@multaqa.example
+DTSTAMP:20261105T090000Z
+DTSTART:20261119T110000Z
+DTEND:20261119T124000Z
+SUMMARY:من الطين… قطعة بإيدك
+LOCATION:مرسم الأنشطة
+DESCRIPTION:اترك الشاشة شوي، وجرّب تصنع شيئاً 
+ ملموساً من البداية.
+END:VEVENT
+END:VCALENDAR

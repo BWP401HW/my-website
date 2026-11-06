@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Multaqa University//BWP401//AR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:photo-walk@multaqa.example
+DTSTAMP:20261105T090000Z
+DTSTART:20261123T120000Z
+DTEND:20261123T133000Z
+SUMMARY:بعين مختلفة
+LOCATION:الساحة المفتوحة
+DESCRIPTION:نفس المكان، خمس زوايا جديدة. كامير
+ ا الهاتف كافية للتجربة.
+END:VEVENT
+END:VCALENDAR

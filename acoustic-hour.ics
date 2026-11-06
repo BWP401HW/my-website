@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Multaqa University//BWP401//AR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:acoustic-hour@multaqa.example
+DTSTAMP:20261105T090000Z
+DTSTART:20261121T143000Z
+DTEND:20261121T154500Z
+SUMMARY:على إيقاع هادي
+LOCATION:صالة الملتقى
+DESCRIPTION:لقاء صغير نسمع فيه مقاطع قصيرة ونف
+ هم كيف يبدأ الإيقاع.
+END:VEVENT
+END:VCALENDAR

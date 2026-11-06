@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Multaqa University//BWP401//AR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:puzzle-room@multaqa.example
+DTSTAMP:20261105T090000Z
+DTSTART:20261128T123000Z
+DTEND:20261128T140000Z
+SUMMARY:فكّها مع الفريق
+LOCATION:صالة الملتقى
+DESCRIPTION:ألغاز ورقية قصيرة؛ الحل يحتاج انتب
+ اهاً وتعاوناً أكثر من السرعة.
+END:VEVENT
+END:VCALENDAR

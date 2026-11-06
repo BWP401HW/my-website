@@ -1,0 +1,22 @@
+MULTAQA UNIVERSITY / PHOTO CREDITS
+Retrieved: 2026-11-05
+License: https://www.pexels.com/license/
+Images illustrate event topics, not actual events or team members.
+
+assets/img/campus.jpg
+https://www.pexels.com/photo/people-studying-in-library-8199762/
+
+assets/img/clay.jpg
+https://www.pexels.com/photo/potter-at-work-15118790/
+
+assets/img/chess.jpg
+https://www.pexels.com/photo/people-playing-a-game-of-chess-6114982/
+
+assets/img/music.jpg
+https://www.pexels.com/photo/photo-of-woman-playing-acoustic-guitar-3786825/
+
+assets/img/camera.jpg
+https://www.pexels.com/photo/photographers-taking-pictures-with-cameras-18605576/
+
+assets/img/recycle.jpg
+https://www.pexels.com/photo/people-sorting-garbage-6591438/

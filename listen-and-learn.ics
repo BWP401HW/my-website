@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Multaqa University//BWP401//AR
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:listen-and-learn@multaqa.example
+DTSTAMP:20261105T090000Z
+DTSTART:20261201T160000Z
+DTEND:20261201T170000Z
+SUMMARY:كيف بنسمع الموسيقى؟
+LOCATION:لقاء عبر الإنترنت
+DESCRIPTION:من الإيقاع للآلات: نجرب الاستماع ب
+ انتباه، ونشارك ملاحظاتنا.
+END:VEVENT
+END:VCALENDAR
